@@ -1,6 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
+    id("kotlin-parcelize")
 }
 
 android {
@@ -43,4 +44,7 @@ dependencies {
     implementation(libs.activity)
     implementation(libs.constraintlayout)
     implementation(libs.glide)
+    implementation(libs.recyclerview)
+    implementation(libs.cardview)
+    implementation(libs.kotlin.parcelize.runtime)
 }
