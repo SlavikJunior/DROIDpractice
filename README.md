@@ -1,9 +1,6 @@
 # DROIDpractice
-
 Практика по созданию Android приложений
-
 ## Технологии
-_Name the technologies used in the project._
 * Kotlin - основной язык разработки
 ## Благодарности
 * Халиуллин Айрат Рамилевич
